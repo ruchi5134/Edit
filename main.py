@@ -8,13 +8,13 @@ def start(update: Update, context: CallbackContext):
     keyboard = [
         [
             InlineKeyboardButton("Source Code", url=f"https://github.com/ashui501/Edit-Guardian"),
-            InlineKeyboardButton("ASSOCIATION", url=f"https://t.me/zbbzxce")
+            InlineKeyboardButton("ASSOCIATION", url=f"https://t.me/ShinobiXEmpire")
         ],
         [
             InlineKeyboardButton("Add me to group", url=f"https://t.me/Obanai_XRobot?startgroup=true")
         ],
         [
-            InlineKeyboardButton("Master", url=f"https://t.me/akIra_IshIkki"),
+            InlineKeyboardButton("Master", url=f"https://t.me/TheGerault"),
         ]
     ]
 
